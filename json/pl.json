@@ -1,0 +1,38 @@
+[
+	{
+		"title": "lewe lusterko",
+		"index": 9,
+		"comment": "The most frequent place to look"
+	}
+	"nie zwykła sytuacja na drodze", // ktoś wybiegnie, ktoś zahamuje nagle, coś innego niż zwykle.
+	"prawe lusterko", 5
+	"tylne lusterko", 8
+	"szyba z przodu", 10
+	"lewa szyba", 5 // mniej ale zawsze wiencej niż prawa czy tylna szyba
+	"prawa szyba", 4 // od czasu do czasu
+	"tylna szyba" 6 // bo przy cofaniu
+	"prędkość",
+	"bieg",
+
+	"pojazdy z prawa", // 10 - bo są przeszkodą i trzeba przepuścić
+	"pojazdy z przodu z nadprżeciwka", // 9 
+	"pojazdy z lewa", // 7 (chyba na rondzie - 8) 
+	"pojazdy z przodu w naszym kierunku", // 6 (bo zawsze jadą tak że mamy najmniejszą prawdopodobność do kolizji)
+	"pojazdy z tylu", // 5
+
+	"sygnalizator swietlny z strzalką w prawo", //10
+	"sygnalizację świetlną", // 9
+	"znaki pioniowe", // 8
+	"znaki poziome", // 8 (a na turbinowym rondo może j 9)
+	"znaki informacyjne", // 7
+	"znaki tabliczki", // 6
+	"przejżystość",
+	"pogoda", // mniej więncej ale 2-3 bo już kiedy ustawiliśmy, że jest gorsz pogoda, to wtedy zawsze jesteśmy skoncentrowane na ostrożnośći
+	"noc/dzień",
+	"odłeglość",
+	"układ drogi", //zakręty, wzniesienia, spadki 
+	"uczestniki ruchu", // inne pojazdy, pieszych, rowerzystów, zwierzęta 
+	"nawierzchnię", // dziury, ślady hamowania, ślady błota sygnalizujące wyjazdy z bocznych dróg, koleiny 	
+	"obiekty", //które niosą ze sobą użyteczne podpowiedzi lub informacje (patrz fragment „skojarzenia obserwacyjne” w dalszej części tekstu). 
+
+]
