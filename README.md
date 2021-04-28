@@ -12,7 +12,8 @@ Conditions which have influence on making decisions driving the car.
 * Results page.
   * Results should be collected on mongodb level, or Google drive spreadsheet.
   * Represented as graph, mind-map, pie-chart, table, other charts, TBD.
-
+* PRZEPISY - WYNIKI
+- http://bl.ocks.org/jdarling/2d4e84460d5f5df9c0ff
 
 ## Technologies
 - JavaScript
@@ -25,16 +26,32 @@ Conditions which have influence on making decisions driving the car.
 - http://localdriving.blogspot.com/2012/02/what-is-siped.html
 - https://www.bikeshophub.com/blog/2008/01/22/sipde
 
+## SIPDA: Scan-Identify-Predict-Decide-Act
+- http://superjazda.blogspot.com/2011/02/jak-przejrzec-na-oczy-czyli-o.html
 
 ## Other resources
 - https://en.wikipedia.org/wiki/Adjacency_matrix
 - https://www.sciencedirect.com/science/article/pii/S0895717796001616
 - http://www.jneurosci.org/content/36/5/1529.full
-- http://superjazda.blogspot.com/2011/02/jak-przejrzec-na-oczy-czyli-o.html
-
+- http://superjazda.blogspot.com/2011/02/jak-przejrzec-na-oczy-czyli-o.html (tablica "Przykładowe skojarzenia obserwacyjne")
 
 ## Inspired by
 - Courses for Driving license
+
+
+## Name
+- "decision-making-conditions"
+- "spide" or "sipda"
+- "car" or "samochód" ?
+- "kierowca" or "driver?"
+- "lkm" or "ldkm" (lusterko, decyzja, kierunkowskaz, manewr) (http://superjazda.blogspot.com/2010/10/jazda-miejska-czesc-1.html)
+- "kierowca" - "i-decydowanie" . html
+- "kierowca" - "i-samochód" . html
+- "ja-kierowca" or "iDriver" (i-driver)
+
+mind map example
+
+https://www.youtube.com/watch?v=0lbeLZbwkC0
 
 
 ## Author
