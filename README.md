@@ -18,11 +18,12 @@ Conditions which have influence on making decisions driving the car.
 ## Technologies
 - JavaScript
 - D3.js for charts (https://bost.ocks.org/mike/miserables/)
+- Materialize-CSS?
 - NodeJS for server related work
 - maybe mongoDB (if deployed to heroku)
 
 
-## SIPDE (Search/Scan, Identify, Predict, Decide and Execute) 
+## SIPDE (Search/Scan, Identify, Predict, Decide and Execute)
 - http://localdriving.blogspot.com/2012/02/what-is-siped.html
 - https://www.bikeshophub.com/blog/2008/01/22/sipde
 
